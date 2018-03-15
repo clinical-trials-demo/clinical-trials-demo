@@ -1,0 +1,13 @@
+.Form {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 60%;
+    align-content: center;
+    margin: auto;
+}
+
+.innerDiv {
+    border: 1px solid #000000;
+    padding: 15%;
+}
