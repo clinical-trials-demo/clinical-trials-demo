@@ -3,9 +3,9 @@ import './InputBox.css';
 
 const inputBox = (props) => {
     return (
-        <div>
-        <input type="text" placeholder={props.plcHolder} />
-        </div>
+        
+        <input type="text" placeholder={props.plcHolder} onChange={props.change}/>
+        
     )
 }
 
